@@ -1,4 +1,4 @@
-# Workforce-Analytics-Dashboard
+# Workforce-Operations & Performance-Analytics-Dashboard
 This project analyzes workforce performance using attendance, productivity, and safety data from a simulated blue-collar workforce environment. The goal was to provide managers with clear, actionable insights to monitor operational health, identify risk areas, and support data-driven decision-making.
 
 ---
