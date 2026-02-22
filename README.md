@@ -23,22 +23,44 @@ This project analyzes workforce performance using attendance, productivity, and 
 
 # Dashboard Descriptions
 ## Workforce Overview
-Provides a high-level snapshot of workforce health, combining headcount, attendance rate, average productivity, high performer counts, and total safety incidents. This page is designed as an executive summary to quickly assess overall operational performance.
+### Executive Summary Dashboard
+Provides a high-level snapshot of workforce health, combining headcount, attendance rate, average efficiency score, high performer counts, and total safety incidents. Designed to give management an immediate overview of operational performance.
 
 ---
 
 # Attendance Insight
-Analyzes attendance behavior across departments and job roles, highlighting attendance rates, presence patterns, and trends over time. This dashboard helps identify operational risk areas caused by absenteeism or lateness.
+### Attendance Performance Analysis
+Analyzes attendance trends across departments and job roles, highlighting absenteeism patterns and time-based fluctuations to support workforce planning and operational stability.
 
 ---
 
 ## Safety Dashboard
-Monitors workplace safety incidents by department, type, and severity. The dashboard connects incident frequency with impact by tracking total lost workdays, supporting safety risk assessement and prevention planning.
+### Workforce Safety & Incident Monitoring
+Tracks total incidents, severity level, and lost workdays across departments. This dashboard supports risk identification and safety performance evaluation.
 
 ---
 
 ## Productivity Dashboard
-Evaluates workforce efficiency using productivity scores, identifying high and low performers and comparing performance across job roles. This dashboard supports performance management and workforce optimization decisions.
+### Workforce Productivity & Performance Evaluation
+Measures employee efficiency scores and identifies high and low performers across job roles, supporting performance management and workforce optimization.
+
+---
+
+## Tooltip - Attendance
+### Interactive Tooltip - Attendance Details
+Provides additional contextual breakdown of attendance metrics when hovering over visuals, enhancing clarity without cluttering the main report.
+
+---
+
+## Tooltip - Safety
+### Interactive Tooltip- Incident Breakdown
+Displays detailed incident distribution and severity insights on hover, allowing deeper exploration of safety data.
+
+---
+
+## Tooltip - Productivity
+### Interactive Tooltip - Performance Segmentation
+Highlights efficiency threshold and performer distribution dynamically, reinforcing KPI interpretation.
 
 ---
 
