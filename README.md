@@ -1,14 +1,16 @@
-# Workforce-Operations & Performance-Analytics-Dashboard
-This project analyzes workforce performance using attendance, productivity, and safety data from a simulated blue-collar workforce environment. The goal was to provide managers with clear, actionable insights to monitor operational health, identify risk areas, and support data-driven decision-making.
+# Workforce-Analytics-Dashboard
+## Attendance | Productivity | Safety Insights
+This project analyzes the performance, reliability, and safety of a simulated workforce using SQL and Power BI. It provides interactive dashboards to support operational decision-making and workforce planning.
+
 
 ---
 
+
 ## Tools & Technologies
-*MySQL*  - data modelling, table relationships, SQL queiries
-
-*Power BI* - data modelling, DAX measures, interactive dashboards
-
-*Excel* - initial data inspection and validation
+- MySQL- Relational database design, advanced queries 
+- Power BI Desktop- Data modelling, DAX measures, interactive visualizations
+- DAX - Creating business logic and KPI calculations
+- Power BI Tooltips- User-driven context insights
 
 ---
 
@@ -21,14 +23,14 @@ This project analyzes workforce performance using attendance, productivity, and 
 
 ---
 
-# Dashboard Descriptions
+# Dashboard Overview
 ## Workforce Overview
 ### Executive Summary Dashboard
 Provides a high-level snapshot of workforce health, combining headcount, attendance rate, average efficiency score, high performer counts, and total safety incidents. Designed to give management an immediate overview of operational performance.
 
 ---
 
-# Attendance Insight
+## Attendance Insight
 ### Attendance Performance Analysis
 Analyzes attendance trends across departments and job roles, highlighting absenteeism patterns and time-based fluctuations to support workforce planning and operational stability.
 
@@ -41,43 +43,49 @@ Tracks total incidents, severity level, and lost workdays across departments. Th
 ---
 
 ## Productivity Dashboard
-### Workforce Productivity & Performance Evaluation
+### Productivity & Performance Evaluation
 Measures employee efficiency scores and identifies high and low performers across job roles, supporting performance management and workforce optimization.
 
 ---
 
-## Tooltip - Attendance
-### Interactive Tooltip - Attendance Details
-Provides additional contextual breakdown of attendance metrics when hovering over visuals, enhancing clarity without cluttering the main report.
+# Interactive Tooltips
+## Attendance Tooltip
+Displays attendance breakdown dynamically to show present/absent/late counts without cluttering the main visuals.
 
 ---
 
-## Tooltip - Safety
-### Interactive Tooltip- Incident Breakdown
-Displays detailed incident distribution and severity insights on hover, allowing deeper exploration of safety data.
+## Safety Tooltip
+Shows incident severity and lost days context when hovering over safety visuals, giving deeper risk insights.
 
 ---
 
-## Tooltip - Productivity
-### Interactive Tooltip - Performance Segmentation
-Highlights efficiency threshold and performer distribution dynamically, reinforcing KPI interpretation.
+## Productivity Tooltip
+Highlights productivity score context and performer segmentation for enhanced insight during exploration.
 
 ---
 
-## Key Insights
-- Attendance rates varied significantly by job role, indicating operational challenges in specific workforce segments.
-- High-severity safety incidents, while fewer in number, accounted for most lost workdays.
-- Productivity levels were role-dependent, with technical roles showing consistently higher efficiency scores.
-- Absenteeism has a noticeable impact on productivity trends over time.
+# Key Insights (Executive Summary)
+- Attendance rates vary by job role and department, revealing patterns in absenteeism and lateness that can impact operations. 
+- Productivity scores show clear performance differences across roles, helping target training and reward initiatives.
+- Safety incidents are not just counted, their severity and lost day impact are visualized to support risk mitigation decisions.
 
   ---
 
-  ## Design & Analytics Decisions
-Semantic color coding was used to represent risk and performance consistenly across dashboards. Tooltip were implemented to provide additional context without cluttering the main visuals. Filters and slicers were limited to relevant dimensions to maintain clarity and usability.
+  # Data Model & Design Decisions
+- I used a star schema design with clear one-to-many relationships (employees→ attendance, productivity, incidents) to support performance and filtering.
+- DAX measures were used extensively for business logic (eg, rates, counts, thresholds).
+- Semantic colour coding was applied to reflect performance and risk consistently.
+- Tooltips were implemented to provide context without overcrowding visuals
 
 ---
 
-*This project demonstates the ability to translate raw workforce data into actionable insights using industry-standard tools and best practices.*
+# How to Use This Project
+1. Browse the interactive Power BI report (.pbix)
+2. Explore each page to understand workforce performance and risks
+3. Use the slicers to filter by department, job role, or gender
+4. Hover over charts to view context-aware tooltips.
+   
+
 
 
 
