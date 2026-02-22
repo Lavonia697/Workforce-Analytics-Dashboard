@@ -2,9 +2,7 @@
 ## Attendance | Productivity | Safety Insights
 This project analyzes the performance, reliability, and safety of a simulated workforce using SQL and Power BI. It provides interactive dashboards to support operational decision-making and workforce planning.
 
-
 ---
-
 
 ## Tools & Technologies
 - MySQL- Relational database design, advanced queries 
@@ -63,6 +61,9 @@ Shows incident severity and lost days context when hovering over safety visuals,
 Highlights productivity score context and performer segmentation for enhanced insight during exploration.
 
 ---
+
+# Full Interactive Dashboard (PDF Export)
+Complete multi-page export of the Workforce Analysis Dashboard showcasing attendance, safety, and productivity insights.
 
 # Key Insights (Executive Summary)
 - Attendance rates vary by job role and department, revealing patterns in absenteeism and lateness that can impact operations. 
