@@ -66,10 +66,9 @@ Highlights productivity score context and performer segmentation for enhanced in
 Complete multi-page export of the Workforce Analysis Dashboard showcasing attendance, safety, and productivity insights.
 
 # Key Insights (Executive Summary)
-- Attendance rates vary by job role and department, revealing patterns in absenteeism and lateness that can impact operations. 
-- Productivity scores show clear performance differences across roles, helping target training and reward initiatives.
-- Safety incidents are not just counted, their severity and lost day impact are visualized to support risk mitigation decisions.
-
+-Attendance scored a 25% late arrival rate that negatively impacts productivity unless calling for putting in measures to prevent and minimize unnecessary and avoidable late coming.
+-80.06% employee efficiency score showed a good indicator of strong, healthy and high-performing workforce. However 39% of active employees where low performers, which if not checked might cause high performer burnout.
+-7/19 of total safety incidents where high severity and 36% of all safety incidents came from the Logistics department. This could be reduced by improving training and behavioural safety of employees, technology and monitoring and engineering and environmental controls
   ---
 
   # Data Model & Design Decisions
