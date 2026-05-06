@@ -70,7 +70,7 @@ Complete multi-page export of the Workforce Analysis Dashboard showcasing attend
 
 -80.06% employee efficiency score indicates a strong, healthy and high-performing workforce. However, 39% of active employees were low performers, if not checked might cause high performer burnout.
 
--Of all 19 total safety incidents, 7 were high severity, and 36% of all safety incidents came from the Logistics department. This could be reduced by improving training and behavioural safety of employees, use of technology and monitoring to provide real-time alerts for potential risks, operational adjustments as-well-as engineering and environmental controls.
+-Out of 19 total safety incidents, 7 were high severity, and 36% of all safety incidents came from the Logistics department. This could be reduced by improving training and behavioural safety of employees, use of technology and monitoring to provide real-time alerts for potential risks, operational adjustments as-well-as engineering and environmental controls like improved LED lighting for improved visibility and automated guided vehicles that removes humans from high risk repetitive tasks.
 
   ---
 
