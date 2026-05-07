@@ -66,11 +66,11 @@ Highlights productivity score context and performer segmentation for enhanced in
 Complete multi-page export of the Workforce Analysis Dashboard showcasing attendance, safety, and productivity insights.
 
 # Key Insights (Executive Summary)
--Attendance scored a 25% late arrival rate that negatively impacts productivity calling for measures to prevent and minimise unnecessary and avoidable lateness.
+-A 72% attendance rate is very poor and indicates severe organisational issues especialy when 25% of it comes from late comers. This calls for measures to prevent and minimise  unnecessary and avoidable lateness and absences to maintain desirable productivity levels.
 
--80.06% employee efficiency score indicates a strong, healthy and high-performing workforce. However, 39% of active employees were low performers, if not checked might cause high performer burnout.
+-80.06% employee efficiency score indicated a strong, healthy and high-performing workforce. However, 39% of active employees were low performers, if not adressed might cause high performer burnout.
 
--Out of 19 total safety incidents, 7 were high severity, and 36% of all safety incidents came from the Logistics department. This could be reduced by improving training and behavioural safety of employees, use of technology and monitoring to provide real-time alerts for potential risks, operational adjustments as-well-as engineering and environmental controls like improved LED lighting for improved visibility and automated guided vehicles that removes humans from high risk repetitive tasks.
+-Out of 19 total safety incidents, 7 were high severity, and 36% of all safety incidents came from the Logistics department. This could be reduced by improving training and behavioural safety of employees, use of technology and monitoring to provide real-time alerts for potential risks, operational adjustments as-well-as engineering and environmental controls like improved LED lighting for improved visibility and automated guided vehicles that replaces humans from high-risk repetitive tasks.
 
   ---
 
