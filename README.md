@@ -22,25 +22,25 @@ This project analyzes the performance, reliability, and safety of a simulated wo
 ---
 
 # Dashboard Overview
-## Workforce Overview
+## 1 Workforce Overview
 ### Executive Summary Dashboard
 Provides a high-level snapshot of workforce health, combining headcount, attendance rate, average efficiency score, high performer counts, and total safety incidents. Designed to give management an immediate overview of operational performance.
 
 ---
 
-## Attendance Insight
+## 2 Attendance Insight
 ### Attendance Performance Analysis
-Analyzes attendance trends across departments and job roles, highlighting absenteeism patterns and time-based fluctuations to support workforce planning and operational stability.
+Analyses attendance trends across departments and job roles, highlighting absenteeism patterns and time-based fluctuations to support workforce planning and operational stability.
 
 ---
 
-## Safety Dashboard
+## 3 Safety Dashboard
 ### Workforce Safety & Incident Monitoring
 Tracks total incidents, severity level, and lost workdays across departments. This dashboard supports risk identification and safety performance evaluation.
 
 ---
 
-## Productivity Dashboard
+## 4 Productivity Dashboard
 ### Productivity & Performance Evaluation
 Measures employee efficiency scores and identifies high and low performers across job roles, supporting performance management and workforce optimization.
 
@@ -57,13 +57,11 @@ Shows incident severity and lost days context when hovering over safety visuals,
 
 ---
 
+
 ## Productivity Tooltip
 Highlights productivity score context and performer segmentation for enhanced insight during exploration.
 
 ---
-
-# Full Interactive Dashboard (PDF Export)
-Complete multi-page export of the Workforce Analysis Dashboard showcasing attendance, safety, and productivity insights.
 
 # Key Insights (Executive Summary)
 -A 72% attendance rate is very poor and indicates severe organisational issues especialy when 25% of it comes from late comers. This calls for measures to prevent and minimise  unnecessary and avoidable lateness and absences to maintain desirable productivity levels.
