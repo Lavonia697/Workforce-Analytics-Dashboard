@@ -57,7 +57,6 @@ Shows incident severity and lost days context when hovering over safety visuals,
 
 ---
 
-
 ## Productivity Tooltip
 Highlights productivity score context and performer segmentation for enhanced insight during exploration.
 
@@ -69,6 +68,8 @@ Highlights productivity score context and performer segmentation for enhanced in
 -80.06% employee efficiency score indicates a strong, healthy and high-performing workforce. However, 24.6% of active employees were low performers, if not adressed might cause high performer burnout.
 
 -Out of 19 total safety incidents, 7 were of high severity, and 16/30 total working days were lost due to safety incidents. Equipment injury was the single largest operational bottleneck accounting for 37.5% of total lost workdays.
+
+-The second half of January saw drastic, erratic spikes in attendance, frequently breaching the 100%  threshold and peaking near 114%. While this indicates aggressive operational recovery efforts, sustained attendance above 100% points to heavy reliance on costly double shifts and emergency overtime and burnout to compensate for earlier deficits.
 
   ---
 
@@ -86,6 +87,8 @@ Highlights productivity score context and performer segmentation for enhanced in
  -Safety incidents could be reduced by improving training and behavioural safety of employees, use of technology and monitoring to provide real-time alerts for potential risks, operational adjustments as-well-as engineering and environmental controls like improved LED lighting for improved visibility and automated guided vehicles that replaces humans from high-risk repetitive tasks.
  
 -To counter the equipment injury risks ensure that machinery cannot  be turned on during maintenance and cleaning, check that physical barriers over moving parts have not been bypassed or removed by workers trying to move faster. Mandate the use of mechanical lifts or team lifting rules to reduce and prevent back strain injuries. Remap heavy traffic walkways by keeping walking paths clear of equipment cords and chemical spills to eliminate slip and fall injuries. 
+
+-Check if low early month attendance matches historical seasonal patterns and also if a high volume of employees take planned leave early in January. Verify how attendance is tracked to ensure data entry delays are not skewing early numbers.
 
 ---
 
