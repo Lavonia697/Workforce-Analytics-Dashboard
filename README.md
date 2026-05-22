@@ -74,11 +74,17 @@ Highlights productivity score context and performer segmentation for enhanced in
 
  ## Recommended Steps
 -Audit the root causes to identify if the absences and lateness are driven by illness, burnout, or widespread workplace dissatisfaction.
+
 -Review workplace policies by implementing clear, transparent guidelines on absences and lateness and ensure consequences are enforced consistently.
+
 -Prevent burnout by ensuring the high performers are not being routinely assigned the hardest tasks and longest shifts just because they can handle it. Study what they are doing differently (their shortcuts, habits and workflows) and update your standard operating procedures (SOPs).
+
 -The fastest way to raise the 80.06% is by nudging the average performers (37.13%) into the high performing bracket.
+
 -Determine if low performance is derived from bad attitude, or less efficient machinery and systems, then implement software or workflow constraints that make mistakes impossible to make.
- -Safety incidents could be reduced by improving training and behavioural safety of employees, use of technology and monitoring to provide real-time alerts for potential risks, operational adjustments as-well-as engineering and environmental controls like improved LED lighting for improved visibility and automated guided vehicles that replaces humans from high-risk repetitive tasks
+
+ -Safety incidents could be reduced by improving training and behavioural safety of employees, use of technology and monitoring to provide real-time alerts for potential risks, operational adjustments as-well-as engineering and environmental controls like improved LED lighting for improved visibility and automated guided vehicles that replaces humans from high-risk repetitive tasks.
+ 
 -To counter the equipment injury risks ensure that machinery cannot  be turned on during maintenance and cleaning, check that physical barriers over moving parts have not been bypassed or removed by workers trying to move faster. Mandate the use of mechanical lifts or team lifting rules to reduce and prevent back strain injuries. Remap heavy traffic walkways by keeping walking paths clear of equipment cords and chemical spills to eliminate slip and fall injuries. 
 
 ---
