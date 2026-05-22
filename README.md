@@ -64,13 +64,24 @@ Highlights productivity score context and performer segmentation for enhanced in
 ---
 
 # Key Insights (Executive Summary)
--A 72% attendance rate is very poor and indicates severe organisational issues especialy when 25% of it comes from late comers. This calls for measures to prevent and minimise  unnecessary and avoidable lateness and absences to maintain desirable productivity levels.
+-A 72% attendance rate signifies a severe crisis. With 9.6% of the workforce absent and 18.1% late, the company faces cripled productivity, massive overtime costs, compromised service quality, and rapid employee burnout. This calls for measures to prevent and minimise unnecessary and avoidable lateness and absences especialy in the Administration and Manufacturing departments.
 
--80.06% employee efficiency score indicated a strong, healthy and high-performing workforce. However, 39% of active employees were low performers, if not adressed might cause high performer burnout.
+-80.06% employee efficiency score indicates a strong, healthy and high-performing workforce. However, 24.6% of active employees were low performers, if not adressed might cause high performer burnout.
 
--Out of 19 total safety incidents, 7 were high severity, and 36% of all safety incidents came from the Logistics department. This could be reduced by improving training and behavioural safety of employees, use of technology and monitoring to provide real-time alerts for potential risks, operational adjustments as-well-as engineering and environmental controls like improved LED lighting for improved visibility and automated guided vehicles that replaces humans from high-risk repetitive tasks.
+-Out of 19 total safety incidents, 7 were of high severity, and 16/30 total working days were lost due to safety incidents. Equipment injury was the single largest operational bottleneck accounting for 37.5% of total lost workdays.
 
   ---
+
+ ## Recommended Steps
+-Audit the root causes to identify if the absences and lateness are driven by illness, burnout, or widespread workplace dissatisfaction.
+-Review workplace policies by implementing clear, transparent guidelines on absences and lateness and ensure consequences are enforced consistently.
+-Prevent burnout by ensuring the high performers are not being routinely assigned the hardest tasks and longest shifts just because they can handle it. Study what they are doing differently (their shortcuts, habits and workflows) and update your standard operating procedures (SOPs).
+-The fastest way to raise the 80.06% is by nudging the average performers (37.13%) into the high performing bracket.
+-Determine if low performance is derived from bad attitude, or less efficient machinery and systems, then implement software or workflow constraints that make mistakes impossible to make.
+ -Safety incidents could be reduced by improving training and behavioural safety of employees, use of technology and monitoring to provide real-time alerts for potential risks, operational adjustments as-well-as engineering and environmental controls like improved LED lighting for improved visibility and automated guided vehicles that replaces humans from high-risk repetitive tasks
+-To counter the equipment injury risks ensure that machinery cannot  be turned on during maintenance and cleaning, check that physical barriers over moving parts have not been bypassed or removed by workers trying to move faster. Mandate the use of mechanical lifts or team lifting rules to reduce and prevent back strain injuries. Remap heavy traffic walkways by keeping walking paths clear of equipment cords and chemical spills to eliminate slip and fall injuries. 
+
+---
 
   # Data Model & Design Decisions
 - I used a star schema design with clear one-to-many relationships (employees→ attendance, productivity, incidents) to support performance and filtering.
