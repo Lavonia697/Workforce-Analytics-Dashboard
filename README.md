@@ -1,12 +1,18 @@
 # Workforce-Analytics-Dashboard
 ## Attendance | Productivity | Safety Insights
-This project analyzes the performance, reliability, and safety of a simulated workforce using SQL and Power BI. It provides interactive dashboards to support operational decision-making and workforce planning.
+I created a simulated workforce operations and performance analysis project and analysed:
+
+- Attendance trends across departments and job roles, highlighting absenteeism patterns and time-based fluctuations to support workforce planning and operational stability.
+
+- Total incidents, severity level, and lost working days across departments to support risk identification and safety performance evaluation.
+
+- Employee efficiency scores and identified high and low performers across job roles to support performance management and workforce optimisation.
 
 ---
 
 ## Tools & Technologies
 - MySQL- Relational database design, advanced queries 
-- Power BI Desktop- Data modelling, DAX measures, interactive visualizations
+- Power BI Desktop- Data modelling, DAX measures, interactive visualisations
 - DAX - Creating business logic and KPI calculations
 - Power BI Tooltips- User-driven context insights
 
