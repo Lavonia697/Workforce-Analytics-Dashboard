@@ -45,7 +45,7 @@ Tracks total incidents, severity level, and lost workdays across departments. Th
 
 ### 4. Productivity & Performance Evaluation
 Measures employee efficiency scores and identifies high and low performers across job roles, supporting performance management and workforce optimisation.
-![Alt Text](
+![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Productivity%20Dashboard.png?raw=true)
 
 ---
 
@@ -62,14 +62,6 @@ Shows incident severity and lost days context when hovering over safety visuals,
 
 ## Productivity Tooltip
 Highlights productivity score context and performer segmentation for enhanced insight during exploration.
-
----
-
-## Dashboard Screenshots
-![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Attendance%20Dashboard.png?raw=true)
-![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Productivity%20Dashboard.png?raw=true)
-![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Safety%20Dashboard.png?raw=true)
-![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Safety%20Tooltip.png?raw=true)
 
 ---
 
