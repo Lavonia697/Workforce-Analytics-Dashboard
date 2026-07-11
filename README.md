@@ -102,7 +102,7 @@ Highlights productivity score context and performer segmentation for enhanced in
  
 -To prevent equipment injury ensure that machinery can not  be turned on during maintenance and cleaning, double-check that physical barriers over moving parts have not been bypassed or removed by workers trying to move faster. Mandate the use of mechanical lifts or team lifting rules to reduce and prevent back strain injuries. Remap heavy traffic walkways by keeping walking paths clear of equipment cords and chemical spills to eliminate slip and fall injuries. 
 
--Check if low early month attendance matches historical seasonal patterns and also if a high volume of employees take planned leave early in January. Verify how attendance is tracked to ensure data entry delays are not skewing early numbers.
+-Check if low attendance at the beginning of the month matches historical seasonal patterns, and also if a high volume of employees take planned leave early in January. Verify how attendance is tracked to ensure data entry delays are not skewing early numbers.
 
 ---
 
@@ -111,6 +111,7 @@ Highlights productivity score context and performer segmentation for enhanced in
 - DAX measures were used extensively for business logic (eg, rates, counts, thresholds).
 - Semantic colour coding was applied to reflect performance and risk consistently.
 - Tooltips were implemented to provide context without overcrowding visuals
+  
 
 ---
 
