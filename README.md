@@ -1,12 +1,10 @@
 # Workforce-Analytics-Dashboard
 ## Attendance | Productivity | Safety Insights
-I created a simulated workforce operations and performance analysis project and analysed:
 
-- Attendance trends across departments and job roles, highlighting absenteeism patterns and time-based fluctuations to support workforce planning and operational stability.
+---
 
-- Total incidents, severity level, and lost working days across departments to support risk identification and safety performance evaluation.
-
-- Employee efficiency scores and identified high and low performers across job roles to support performance management and workforce optimisation.
+## Project Overview
+l built an end-to-end simulated workforce operations and performance analysis framework designed to shift enterprise management from reactive troubleshooting to proactive optimisation.
 
 ---
 
