@@ -1,40 +1,38 @@
 # Workforce-Analytics-Dashboard
 ## Attendance | Productivity | Safety Insights
 
+![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Workforce%20Overview.png?raw=true)
 ---
 
 ## Project Overview
-l built an end-to-end simulated workforce operations and performance analysis framework designed to shift enterprise management from reactive troubleshooting to proactive optimisation.
+I built an end-to-end simulated workforce operations and performance analysis framework designed to shift enterprise management from reactive troubleshooting to proactive optimisation.
 
 ---
 
 ## Tools & Technologies
-- MySQL- Relational database design, advanced queries 
-- Power BI Desktop- Data modelling, DAX measures, interactive visualisations
-- DAX - Creating business logic and KPI calculations
-- Power BI Tooltips- User-driven context insights
+- MySQL- Relational database design, staging table schemas, advanced analytical queries. 
+- Power BI Desktop- Star schema data modelling, data enrichment, and UI/UX design.
+- DAX (Data Analysis Expressions) - Custom business logic, dynamic KPIs, and performance tracking thresholds.
+- Advanced UI features: Custom, user-driven context tooltips and conditional semantic color coding.
+---
+
+ # Data Model & Design Decisions
+- I used a star schema design with clear one-to-many relationships (employees→ attendance, productivity, incidents) to support performance and filtering.
+- DAX measures were used extensively for business logic (eg, rates, counts, thresholds).
+- Semantic colour coding was applied to reflect performance and risk consistently.
+- Tooltips were implemented to provide context without overcrowding visuals
+![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/pbix.data%20model/Operations%20and%20Performance%20Data%20Model.png?raw=true)
 
 ---
 
-## Key Skills Demonstrated
-- Relational data modelling
-- KPI design and validation
-- DAX measures and calculated metrics
-- Data visualisation best practices
-- Workforce and operational analytics
-
+# Dashboard Architecture & Features
+### 1. Executive Summary Overview
+Provides a high-level operational pulse of workforce health-aggregating headcount, average attendance, overall efficiency, and total safety incidents onto a single pane glass for rapid executive review.
 ---
 
-# Dashboard Overview
-## 1 Workforce Overview
-### Executive Summary Dashboard
-Provides a high-level snapshot of workforce health, combining headcount, attendance rate, average efficiency score, high performer counts, and total safety incidents. Designed to give management an immediate overview of operational performance.
-
----
-
-## 2 Attendance Insight
-### Attendance Performance Analysis
+### 2. Attendance Performance Insights
 Analyses attendance trends across departments and job roles, highlighting absenteeism patterns and time-based fluctuations to support workforce planning and operational stability.
+![Alt Text](
 
 ---
 
@@ -104,12 +102,8 @@ Highlights productivity score context and performer segmentation for enhanced in
 
 ---
 
-  # Data Model & Design Decisions
-- I used a star schema design with clear one-to-many relationships (employees→ attendance, productivity, incidents) to support performance and filtering.
-- DAX measures were used extensively for business logic (eg, rates, counts, thresholds).
-- Semantic colour coding was applied to reflect performance and risk consistently.
-- Tooltips were implemented to provide context without overcrowding visuals
-![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/pbix.data%20model/Operations%20and%20Performance%20Data%20Model.png?raw=true)
+ 
+
   
 ---
 
@@ -120,7 +114,12 @@ Highlights productivity score context and performer segmentation for enhanced in
 4. Hover over charts to view context-aware tooltips.
    
 
-
+## Key Skills Demonstrated
+- Relational data modelling
+- KPI design and validation
+- DAX measures and calculated metrics
+- Data visualisation best practices
+- Workforce and operational analytics
 
 
 
