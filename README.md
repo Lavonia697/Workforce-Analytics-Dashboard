@@ -28,6 +28,7 @@ I built an end-to-end simulated workforce operations and performance analysis fr
 # Dashboard Architecture & Features
 ### 1. Executive Summary Overview
 Provides a high-level operational pulse of workforce health-aggregating headcount, average attendance, overall efficiency, and total safety incidents onto a single pane glass for rapid executive review.
+
 ---
 
 ### 2. Attendance Performance Insights
@@ -38,13 +39,13 @@ Analyses attendance trends across departments and job roles, highlighting absent
 
 ### 3. Workforce Safety & Incident Monitoring
 Tracks total incidents, severity level, and lost workdays across departments. This dashboard supports risk identification and safety performance evaluation.
-![Alt Text](
+![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Safety%20Dashboard.png?raw=true)
 
 ---
 
-## 4 Productivity Dashboard
-### Productivity & Performance Evaluation
-Measures employee efficiency scores and identifies high and low performers across job roles, supporting performance management and workforce optimization.
+### 4. Productivity & Performance Evaluation
+Measures employee efficiency scores and identifies high and low performers across job roles, supporting performance management and workforce optimisation.
+![Alt Text](
 
 ---
 
