@@ -36,9 +36,9 @@ Analyses attendance trends across departments and job roles, highlighting absent
 
 ---
 
-## 3 Safety Dashboard
-### Workforce Safety & Incident Monitoring
+### 3. Workforce Safety & Incident Monitoring
 Tracks total incidents, severity level, and lost workdays across departments. This dashboard supports risk identification and safety performance evaluation.
+![Alt Text](
 
 ---
 
