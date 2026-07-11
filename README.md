@@ -32,7 +32,7 @@ Provides a high-level operational pulse of workforce health-aggregating headcoun
 
 ### 2. Attendance Performance Insights
 Analyses attendance trends across departments and job roles, highlighting absenteeism patterns and time-based fluctuations to support workforce planning and operational stability.
-![Alt Text](
+![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Attendance%20Dashboard.png?raw=true)
 
 ---
 
