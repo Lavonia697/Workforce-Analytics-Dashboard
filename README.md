@@ -71,6 +71,7 @@ Highlights productivity score context and performer segmentation for enhanced in
 ## Dashboard Screenshots
 ![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Attendance%20Dashboard.png?raw=true)
 ![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Productivity%20Dashboard.png?raw=true)
+![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Safety%20Dashboard.png?raw=true)
 
 # Key Insights (Executive Summary)
 -A 72% attendance rate signifies a severe crisis. With 9.6% of the workforce absent and 18.1% late, the company faces crippled productivity, massive overtime costs, compromised service quality, and rapid employee burnout. This calls for measures to prevent and minimise unnecessary and avoidable lateness and absences especially in the Administration and Manufacturing departments.
