@@ -1,4 +1,4 @@
-# Workforce-Productivity-and-Safety-Analysis-Dashboard
+# Workforce-Productivity-and-Safety-Analytics-Dashboard
 ## Attendance | Productivity | Safety Insights
 
 ![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Workforce%20Overview.png?raw=true)
