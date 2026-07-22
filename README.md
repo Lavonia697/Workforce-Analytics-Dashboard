@@ -1,4 +1,5 @@
 # Workforce-Productivity-and-Safety-Analytics-Dashboard
+## 
 ## Attendance | Productivity | Safety Insights
 
 ![Alt Text](https://github.com/Lavonia697/Workforce-Productivity-and-Health-Safety-Environment--Dashboard/blob/main/screenshots/Workforce%20Overview.png?raw=true)
@@ -6,6 +7,12 @@
 
 ## Project Overview
 I built an end-to-end simulated workforce operations and performance analysis framework designed to shift enterprise management from reactive troubleshooting to proactive optimisation.
+
+---
+
+## Construction Industry Application:
+- **Health & Safety (HSE):** Tracks incidents by site location and machinery type, allowing Safety Officers to identify faulty equipment or high-risk zones to lower the company's EMR rating.
+- **Labor Forecasting:** Identifies labor capacity "crunch periods" (like the 114% spike seen in January) helping Project Managers better negotiate subcontractor schedules and avoid unexpected overtime costs.
 
 ---
 
